@@ -1,7 +1,7 @@
-### Name: Saathvik Dirisala
-### Email: sdirisala@ucsd.edu
-### Section: A15
-### Mentors: Dr. Rayan Saab and Dr. Alex Cloninger
+### Saathvik Dirisala
+#### Email: sdirisala@ucsd.edu
+#### Section: A15
+#### Mentors: Dr. Rayan Saab and Dr. Alex Cloninger
 
 **1. What is the most interesting topic covered in your domain this quarter?**
 
