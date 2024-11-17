@@ -3,6 +3,8 @@
 #### Section: A15
 #### Mentors: Dr. Rayan Saab and Dr. Alex Cloninger
 
+#### Responses:
+
 **1. What is the most interesting topic covered in your domain this quarter?**
 
 The most interesting topic in my domain, "Neural Network Compression," has been GPTQ, an efficient method for quantizing LLMs. This method employs the Hessian of each layer to quantize weights one at a time. The loss incurred from quantizing a single weight is redistributed amongst the remaining weights. This is a powerful method that enables 4-bit quantization of LLMs with minimal loss in performance/information.
